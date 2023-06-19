@@ -1,6 +1,6 @@
 ### Hi there, I'm Hugo  👋
 
-## I'm a Front-End Developer
+## I'm a Front-End Developer and UI/UX Designer
 
 - 🌱 I'm currently looking to improve my skills on React and NodeJS
 - 🥅 Goals: Contribute more to Open Source projects.
@@ -13,6 +13,8 @@
 
 #### 👨🏻‍💻 Technology Stack:
 <p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>

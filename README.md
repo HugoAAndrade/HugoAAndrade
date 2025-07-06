@@ -1,6 +1,6 @@
 ### Hi there, I'm Hugo  👋
 
-## I'm a Front-End Developer and UI/UX Designer
+## I'm a Web Developer
 
 - 🌱 I'm currently looking to improve my skills on React and NodeJS
 - 🥅 Goals: Contribute more to Open Source projects.

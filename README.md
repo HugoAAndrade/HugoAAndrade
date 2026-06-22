@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hugo Andrade</h1>
 
 <h3 align="center">
-Full Stack Developer • TypeScript • React • Node.js
+Full Stack Developer • Building Products with TypeScript, React and Node.js
 </h3>
 
 <p align="center">
@@ -16,23 +16,24 @@ Building web applications, APIs, automations and AI-powered solutions.
 
 ## 🚀 About Me
 
-* 💻 Full Stack Developer
-* ⚛️ React, TypeScript and Node.js
-* 🤖 Building AI-powered applications and WhatsApp automations
-* 🐳 Docker enthusiast
-* 🚀 Exploring SaaS products and scalable side projects
-* 🌱 Constantly learning software architecture and system design
+* 💻 Full Stack Developer from São Paulo, Brazil
+* ⚛️ Building modern web applications with React, TypeScript and Node.js
+* 🤖 Creating AI-powered tools and WhatsApp automations
+* 🐳 Working with Docker, APIs and scalable architectures
+* 🛒 Experience with E-commerce and Magento development
+* 🚀 Interested in SaaS, automation and digital products
+* 🌱 Always learning and improving as a developer
 
 ---
 
 ## 🌐 Connect with Me
 
 <p>
-<a href="https://www.linkedin.com/in/hugo-andrade-880862197/">
+<a href="https://www.linkedin.com/in/hugo-andrade-880862197/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://hugoandrade.vercel.app/">
+<a href="https://hugoandrade.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge"/>
 </a>
 
@@ -46,7 +47,7 @@ Building web applications, APIs, automations and AI-powered solutions.
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,docker,git,github,linux,vscode,figma,html,css,sass" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,docker,mysql,postgres,mongodb,git,github,linux,vscode,figma,html,css,sass" />
 </p>
 
 ---
@@ -61,35 +62,34 @@ Building web applications, APIs, automations and AI-powered solutions.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HugoAAndrade&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🤖 WhatsApp AI Assistant
-
-AI-powered customer support assistant built with Node.js, TypeScript and WhatsApp integration.
-
-### 🔧 Service Desk Bot
-
-Automated service order and customer support management through WhatsApp.
-
-### 🌐 Personal Portfolio
-
-Modern portfolio built with React and TypeScript.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAAndrade&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🎯 Current Focus
+## 🚀 Currently Working On
 
-* AI Integrations
-* WhatsApp Automation
-* SaaS Projects
-* React & TypeScript
-* Node.js APIs
-* Software Architecture
+* 🤖 AI-powered WhatsApp Assistants
+* 🔧 Service Desk Automation Platforms
+* 🚀 SaaS Projects and Product Ideas
+* ⚡ Backend APIs with Node.js and TypeScript
+* 🐳 Dockerized Applications
+* 🏗️ Software Architecture and Scalability
+
+---
+
+## 💼 Areas of Interest
+
+* Full Stack Development
+* Artificial Intelligence
+* Automation & Integrations
+* SaaS Products
+* E-commerce
+* Open Source
 
 ---
 
 <p align="center">
-  <i>Turning ideas into products through code.</i>
+  <i>"Turning ideas into products through code."</i>
 </p>

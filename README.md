@@ -85,14 +85,6 @@ Building web applications, APIs, automations and AI-powered solutions.
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HugoAAndrade&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## ⚡ Current Focus
 
 ```txt

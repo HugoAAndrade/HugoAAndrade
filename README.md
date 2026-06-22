@@ -9,9 +9,7 @@ Building web applications, APIs, automations and AI-powered solutions.
 </p>
 
 <p align="center">
-  <a href="https://github.com/HugoAAndrade">
-    <img src="https://komarev.com/ghpvc/?username=HugoAAndrade&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+📍 São Paulo, Brazil
 </p>
 
 ---
@@ -19,22 +17,22 @@ Building web applications, APIs, automations and AI-powered solutions.
 ## 🚀 About Me
 
 * 💻 Full Stack Developer
-* ⚛️ Strong focus on React, TypeScript and Node.js
-* 🤖 Building WhatsApp bots and AI-powered applications
-* 🐳 Working with Docker and modern development workflows
-* 🌱 Always learning software architecture and scalable systems
-* 🎯 Goal: Build profitable products and contribute more to Open Source
+* ⚛️ React, TypeScript and Node.js
+* 🤖 Building AI-powered applications and WhatsApp automations
+* 🐳 Docker enthusiast
+* 🚀 Exploring SaaS products and scalable side projects
+* 🌱 Constantly learning software architecture and system design
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/hugo-andrade-880862197/" target="_blank">
+<p>
+<a href="https://www.linkedin.com/in/hugo-andrade-880862197/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://hugoandrade.vercel.app/" target="_blank">
+<a href="https://hugoandrade.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge"/>
 </a>
 
@@ -45,50 +43,53 @@ Building web applications, APIs, automations and AI-powered solutions.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,sass" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,docker,git,github,linux,vscode,figma,html,css,sass" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 🔥 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAAndrade&layout=compact&theme=tokyonight&hide_border=true"/>
 <img src="https://streak-stats.demolab.com?user=HugoAAndrade&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HugoAAndrade&theme=tokyo-night&hide_border=true"/>
+</p>
+
 ---
 
-## ⚡ Current Focus
+## 🚀 Featured Projects
 
-```txt
-✔ React & TypeScript
-✔ Node.js APIs
-✔ Docker
-✔ WhatsApp Automation
-✔ AI Integrations
-✔ SaaS Projects
-```
+### 🤖 WhatsApp AI Assistant
+
+AI-powered customer support assistant built with Node.js, TypeScript and WhatsApp integration.
+
+### 🔧 Service Desk Bot
+
+Automated service order and customer support management through WhatsApp.
+
+### 🌐 Personal Portfolio
+
+Modern portfolio built with React and TypeScript.
+
+---
+
+## 🎯 Current Focus
+
+* AI Integrations
+* WhatsApp Automation
+* SaaS Projects
+* React & TypeScript
+* Node.js APIs
+* Software Architecture
 
 ---
 
 <p align="center">
-  <i>"Turning ideas into products through code."</i>
+  <i>Turning ideas into products through code.</i>
 </p>

@@ -49,9 +49,9 @@ Building web applications, automations and AI-powered solutions.
 <img height="165em" src="https://streak-stats.demolab.com?user=HugoAAndrade&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HugoAAndrade&theme=tokyo-night&hide_border=true"/>
-</p>
+</p> -->
 
 ---
 
